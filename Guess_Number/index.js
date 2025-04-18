@@ -6,12 +6,12 @@ const r1 = readline.createInterface({
 });
 
 function display() {
-    const msg = " Welcome to the Number Guessing Game!\n I'm thinking of a number between 1 and 100.\n You have 5 chances to guess the correct number. \n"
+    const msg = " I’ve hidden a secret number between 1 and 100—think you can crack it?.\n You’ve got 5 shots to nail it. Miss them all? You’re outta here! 😜. \n"
     console.log(msg);
 }
 
 function easy() {
-    const msg = "Great! You have selected the Easy difficulty level. \nLet's start the game";
+    const msg = "You’ve picked Easy mode—let’s see if it’s really that easy!. \n Alright, let's get this party started";
     console.log(msg);
     let randNum = Math.floor(Math.random() * 100) + 1;
     let attempts = 0;
