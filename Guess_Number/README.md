@@ -34,5 +34,5 @@ Fork the repository and submit a pull request with improvements.
 
 Author
 
-Bharat Yadav
+Sathvika Akarapu
 
