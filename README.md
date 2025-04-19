@@ -1,37 +1,39 @@
-Number Guessing Game
+Number Guessing Game 🎉
+Welcome to the Ultimate Number Guessing Showdown! 🕵️‍♂️
 
-A simple command-line game where you guess a randomly generated number between 1 and 100. Choose from three difficulty levels: Easy, Medium, and Hard.
+Can you guess the secret number between 1 and 100? The catch? The number might be a tricky little rascal, and you only get a handful of chances to find it. 😏
+How to Play:
 
-How to Play
+    Run the game using Node.js (v14 or higher).
 
-Run the game using Node.js.
+    Pick your difficulty level:
 
-Select a difficulty level:
+        Easy: You get 10 shots. (Because who doesn't love an easy win? 😉)
 
-Easy: 10 attempts
+        Medium: A 5-chance challenge. 🧐 (Let’s turn up the heat.)
 
-Medium: 5 attempts
+        Hard: Only 3 attempts. (Brace yourself. It’s about to get real. 😬)
 
-Hard: 3 attempts
+    Enter your guesses, and I’ll throw in some hints.
+    Keep guessing until you either nail it or run out of attempts! 😱
 
-Enter your guesses and receive hints until you guess correctly or run out of attempts.
+Requirements:
 
-Requirements
+    Node.js (v14 or higher)
 
-Node.js (v14 or higher)
+    readline module (It’s built-in, so you’re already good to go! ✌️)
 
-readline module (built-in)
+Code Structure 🧑‍💻
 
-Code Structure
+    index.js: The heart and soul of the game.
 
-index.js: Main entry point
+    Functions to handle difficulty levels, user input, and nerve-wracking guesses.
 
-Functions for difficulty levels and user input handling
+Contributing:
 
-Contributing
+Want to make the game even better? Fork this repo and send in a pull request with your genius ideas! 💡
+Author:
 
-Fork the repository and submit a pull request with improvements.
+Made with love (and a little bit of chaos) by Sathvika Akarapu. 
 
-Author
-
-Sathvika Akarapu
+Let’s get guessing, shall we? 👀🎯
